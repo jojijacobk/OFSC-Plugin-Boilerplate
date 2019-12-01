@@ -1,0 +1,30 @@
+{
+  "name": "ofsc-plugin-boilerplate",
+  "author": "joji.jacob.k@gmail.com",
+  "version": "1.0.0",
+  "description": "Plugin Boilerplate for OFSC - Oracle Field Service Cloud",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@orahub.oraclecorp.com:appdev-cloud-ofsc/plugin-sample.git"
+  },
+  "keywords": [
+    "ofsc",
+    "sample",
+    "plugin",
+    "boilerplate"
+  ],
+  "private": false,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bumpup": "^0.6.3",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-version-bump": "^1.0.8",
+    "grunt-zip": "^0.17.1"
+  }
+}

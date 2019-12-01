@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# APPCACHE MANIFEST
+# v1
+
+CACHE:
+./index.html
+./plugin.js
+
+FALLBACK:
+
+NETWORK:
+*
