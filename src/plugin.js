@@ -282,8 +282,8 @@
         apiVersion: 1,
         method: 'ready',
         sendInitData: true,
-        showHeader: !!localStorage.getItem('showHeader'),
-        enableBackButton: !!localStorage.getItem('backNavigationFlag')
+        showHeader: true,
+        enableBackButton: true
       };
 
       //parse data items
